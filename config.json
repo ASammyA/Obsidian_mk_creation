@@ -1,0 +1,7 @@
+{
+    "vault_path": "G:\\My Drive\\Drive\\Gaming_Music_Comics_software\\Weather Factory\\Obsidian"
+    , "games": ["Cultist Simulator", "Book of Hours"]
+    , "delimiters" : [",", ":", "_", "-", " "]
+    , "excluded_words" : ["the", "a", "an", "and", "or", "of", "in", "to", "for", "with", "on", "at", "by", "as"]
+    , "excluded_digits" : ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
+}

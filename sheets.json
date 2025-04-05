@@ -1,0 +1,84 @@
+{
+    "Book of Hours": {
+        "name": "Book of Hours"
+        , "link_template": "https://docs.google.com/spreadsheets/d/1p1aWr5N0GXdATgP9jM9pB_lL5HHsKEaQDU8zp0h7GMM/edit?gid=gid_value#gid=gid_value"
+        , "sheets": {
+            "Memories": "57430724"
+            , "Consider Masterlist": "432406626"
+            , "Books": "161140297"
+            , "Skills": "887548006"
+            , "Wisdom Branch": "1238682685"
+            , "Sustenance": "652283921"
+            , "Inedible Cooking Ingredient": "126757897"
+            , "Beverages": "367912105"
+            , "Candles": "745028529"
+            , "Flowers": "2030685183"
+            , "Pets": "1839755106"
+            , "Explorable": "203136705"
+            , "Purchasable": "484734701"
+            , "Crafted Product": "1675846500"
+            , "Crafting Recipe": "1760695989"
+            , "Rooms": "1889312489"
+            , "Workstations": "1351975106"
+            , "Visitors": "1721650548"
+            , "Assistance": "1059413647"
+            , "Exploration": "1937107873"
+            , "Incidents": "1163393403"
+            , "History": "1252134190"
+            , "Conversations": "605494400"
+            , "Hours": "1981936845"
+            , "Weather": "1191136372"
+            , "Principle": "1007960833"
+            , "Soul Card": "338064931"
+            , "Keywords": "1084909450"
+            , "Player Librarians": "1610034163"
+            , "History Victory": "1427507298"
+            , "Lighthouse Institute Victory": "873533606"
+        }
+        , "keyword_sheets": ["Keywords"]
+    }
+    , "Cultist Simulator": {
+        "name": "Cultist Simulator"
+        , "link_template": "https://docs.google.com/spreadsheets/d/1QO46OYJVS3ZtWzzKMo8dtvjBC4RxuL52nOZq7Yf6nDM/edit?gid=gid_value#gid=gid_value"
+        , "sheets": {
+            "Expeditions": "0"
+            , "Books": "463369980"
+            , "Mansus": "2091995096"
+            , "Explore": "2071655542"
+            , "Principles": "864470521"
+            , "General Influence": "503763075"
+            , "Ritual": "1592372796"
+            , "Followers and Summons": "47431298"
+            , "Tools": "895631243"
+            , "Ingredients": "964184607"
+            , "Challenges": "591365750"
+            , "Skills": "1840875553"
+            , "Hideout Locations": "1282615633"
+            , "Work": "2116733923"
+            , "Hours": "1823831057"
+            , "Obstacle": "1097350321"
+            , "Rites": "580990837"
+            , "Keywords": "1534837852"
+        }
+        , "keyword_sheets": ["Keywords"]
+    }
+    , "Meta Lore": {
+        "name": "Meta Lore"
+        , "link_template": "https://docs.google.com/spreadsheets/d/1oetQ7ogbB8in8bz-6sebnBhyCZrGyFQeCl036Pa7KRE/edit?gid=gid_value#gid=gid_value"
+        , "sheets": {
+            "Principles": "0"
+            , "Secret Histories": "179472355"
+            , "Mansus": "935411490"
+            , "Hours": "1141666090"
+            , "Gods-from-stone": "375366335"
+            , "Gods-from-blood": "1925596683"
+            , "Gods-from-flesh": "548047820"
+            , "Names": "1371718956"
+            , "Long": "386817453"
+            , "Characters/Creatures": "1190544281"
+            , "Places": "1393945248"
+            , "Groups/Organizations": "295171118"
+            , "Concepts": "1775567688"
+        }
+    }
+}
